@@ -21,3 +21,15 @@ A collection of works by P. L. Panum featured in the book, with links to local f
 *Experimental investigations into embolism.* Ugeskrift for Læger, 9 and 16 January 1864, printed pages 41–48 and 57–65.
 
 - **Danish text:** [Panum-Embolism-Danish.pdf](Panum-Embolism-Danish.pdf) — a 17-page PDF containing both installments of Panum's article.
+
+## 4. Bidrag til læren om den saakaldte putride eller septiske infection
+
+*Contributions to the theory of the so-called putrid or septic infection.* Bibl Laeger. 1856;4(R.8):253–285.
+
+- **Danish text:** [Panum-Putrid-Septic-Infection-Danish.pdf](Panum-Putrid-Septic-Infection-Danish.pdf) (local file).
+
+## 5. Om cholera-epidemien i Bandholm 1850
+
+*On the cholera epidemic in Bandholm, 1850.* Hosp.-Medd. 1850;3:548–628. Also published in Bibl Laeger. 1851;3.R.9:175–196.
+
+- **Danish text:** [Panum-Cholera-Bandholm-Danish.pdf](Panum-Cholera-Bandholm-Danish.pdf) (local file).
